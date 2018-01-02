@@ -6,6 +6,7 @@ if (!require(doParallel)) install.packages("doParallel")
 
 # Function -----------------------------------------------------------------------------------------------
 ticker_count <- function(filename, directory) {
+  gc()
   suppressPackageStartupMessages(library("data.table"))
   setwd(paste0(directory,"/Download"))
   # Reading file
@@ -56,7 +57,7 @@ colnames(objects_size) <- c("Size","File")
 # search for files (in Downaload) with dimension of Kilobytes, these will probably be empty files (i.e. missing data)
 missing_data <- objects_size$File[grep("K",objects_size$Size)]
 # Remove missing data from filename
-filename <- setdiff(filename,missing)
+filename <- setdiff(filename,missing_data)
 
 available_days <- as.POSIXct(sub(".zip","",filename), format = "%Y-%m-%d", tz="UTC")
 all_days <- seq.POSIXt(from = available_days[1], to = last(available_days), by = "days")
@@ -73,7 +74,8 @@ registerDoParallel(cl)
 a_ply(.data = filename,
       .fun = ticker_count, directory,
       .parallel = TRUE,
-      .margins = 1)
+      .margins = 1,
+      .progress = TRUE)
 
 stopCluster(cl)
 

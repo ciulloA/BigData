@@ -1,5 +1,5 @@
 directory = "/home/antonio/Desktop/BigData/data"
-setwd(paste0(directory,"/Download_new"))
+setwd(paste0(directory,"/Download"))
 
 # Package for downloading HF-Data from BOVESPA:
 if (!require(GetHFData)) install.packages("GetHFData")
