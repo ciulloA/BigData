@@ -23,6 +23,7 @@ for (i in 1:length(filename)-1) {
   V = rbind(V,Vi)
 }
 rm("Vi")
+system(paste("rm -f", paste(filename, collapse = " "))) # delete all files (we won't need them in the future)
 
 V$Date <- as.POSIXct(V$Date, format = "%Y-%m-%d", tz="UTC")
 # Sort by ticker, then by date
@@ -50,17 +51,4 @@ ggplot(data =  mean_obs[mean_obs$Counter>=480 & min_obs$Counter>=100], aes(x = T
 
 rm("min_obs", "mean_obs")
 
-fwrite(selection$Ticker, "good_ticker.txt")
-
-#################### TRASH ####################
-
-# Visualize available observation for a specific ticker (select a number instead of 30)
-# p <- ggplot(data = V[Ticker==unique(V$Ticker)[30],]) + geom_step(aes(x = Date, y = Counter, color = as.factor(Ticker))) + theme(legend.position="none")
-
-# total_observations <- unique(V[, Counter:=sum(Counter), by = "Ticker"])
-
-# visualize the average number of available observation for each ticker
-# mean_obs <- copy(V)
-# ggplot(data = unique(mean_obs[, Counter:=as.integer(mean(Counter)), by = "Ticker"])) + geom_step(aes(x = Date, y = Counter, color = as.factor(Ticker))) + theme(legend.position="none")
-# rm("mean_obs")
-
+write(selection$Ticker, "good_tickers.txt")
