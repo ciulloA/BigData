@@ -14,7 +14,6 @@ directory = "/home/antonio/Desktop/BigData/data"
 setwd(paste0(directory,"/Download"))
 # Getting filenames
 filename <- system("ls", intern = TRUE)
-# filename <- filename[1:10] # (only for tests! to be removed)
 
 # Inspect files size
 system("ls -sh > temp")
@@ -25,7 +24,7 @@ colnames(objects_size) <- c("Size","File")
 missing_data <- objects_size$File[grep("K",objects_size$Size)]
 # Remove missing data from filename
 filename <- setdiff(filename, missing_data)
-filename <- filename[1:25] # (only for tests! to be removed)
+#filename <- filename[1:20] # (only for tests! to be removed)
 
 #Cleaning data
 nodes <- min(detectCores(), 6L)

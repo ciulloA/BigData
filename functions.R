@@ -64,15 +64,15 @@ clean_data <- function(filename, directory) {
   temp <- temp[!duplicated(temp, by = c("Symbol","Datetime")),]
 
   #Cleaning data
-  nodes <- detectCores()
-  cl <- makePSOCKcluster(nodes)
-  registerDoParallel(cl)
+#  nodes <- 8L
+#  cl <- makePSOCKcluster(nodes)
+#  registerDoParallel(cl)
   ind <- alply(.data = tickers,
                .fun = function(x, data) {
                  as.integer(grep(x, data))
                }, temp$Symbol,
                .margins = 1,
-               .parallel = TRUE)
+               .parallel = FALSE)
   ind <- as.integer(unlist(ind)) # we couldn't use directly aaply because the output lenght of .fun is different for each element
   # Remove useless tickers from data
   temp <- temp[ind,] 
