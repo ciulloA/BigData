@@ -11,14 +11,15 @@ sample <- fread(paste0("unzip -p ","2017-03-29.zip"), skip = 1, nrows = n, sep =
 # This way we avoid using the system command to determine the number of lines, moreover fread 
 # automaically skip the 1st line (it recognises that cannot be a data or header) and the
 # fill option allow us to read the last line which was problematic. We finally need to cut 
-# the last row.
+# the last row. We can also specify the parameter "select" to import only the columns we
+# are interted in.
 sample <- fread(paste0("unzip -p ","2017-03-29.zip"), sep = ";", fill = TRUE)
 
 # 3) -----------------------------------------------------------------------
 # shoudn't be the efficient way of reading the files.
 system("cd ~/Desktop/BigData/data")
 system(command = "zgrep -vE 'RH NEG|RT NEG' 2017-03-29.zip > temp")
-sample2 <- fread("temp", sep = ";")
+sample <- fread("temp", sep = ";")
 system("rm -f temp")
 # --------------------------------------------------------------------------
 

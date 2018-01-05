@@ -22,9 +22,10 @@ aaply(.data = c(available_data[,"link"],dates),
       .fun = function(x,filename,data) {
           suppressPackageStartupMessages(library("GetHFData"))
           ghfd_download_file(my.ftp = x, 
-                             out.file = paste (filename[which(data[,"link"] == x)],".zip", sep = ""), 
-                             dl.dir = "Data")
+                             out.file = paste (filename[which(data[,"link"] == x)],".zip", sep = ""))#, 
+                             #dl.dir = "Download")
         }, dates,available_data,
       .parallel = TRUE, 
       .margins = 1
 )
+
