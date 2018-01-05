@@ -7,12 +7,14 @@ if (!require(doParallel)) install.packages("doParallel")
 suppressPackageStartupMessages(library("doParallel"))
 suppressPackageStartupMessages(library("plyr"))
 
+source("/home/antonio/Desktop/BigData/codes/functions.R") # load the functions
+
 # Specify working directory: (The wd MUST contain 2 subfolders: "Downalod" and "Clean")
 directory = "/home/antonio/Desktop/BigData/data"
 setwd(paste0(directory,"/Download"))
 # Getting filenames
 filename <- system("ls", intern = TRUE)
-# filename <- filename[1:100] # (only for tests! to be removed)
+# filename <- filename[1:10] # (only for tests! to be removed)
 
 # Inspect files size
 system("ls -sh > temp")
@@ -28,7 +30,7 @@ for (i in 1:length(missing_data)) {
 }
 if (sum(n)==0) {show("The file in 'missing_data' are indeed empty")}
 # Remove missing data from filename
-filename <- setdiff(filename,missing_data)
+filename <- setdiff(filename, missing_data)
 
 # Now we want to compare the available days with all the days from the first to the 
 # last day in our dataset, in order to see for which and for how many days we don't
@@ -69,74 +71,3 @@ stopCluster(cl)
 # observation we have for each ticker per day, to better understand what kind of 
 # time resolution (seconds, minutes, hours...) we can use for our analysis or to 
 # select only the tickers that have a certain number of observation each day. 
-
-######################################### TRASH #########################################
-
-# system("cd ~/Desktop/BigData/data/Download")
-# 
-# lines_counter <- function(x) {
-#   lines <- as.integer(system(paste("zgrep -vE 'RH NEG|RT NEG'", x,"| wc -l"), intern = TRUE)) # number of lines excluding the problematic ones
-#   }
-# 
-# n <- system.time(aaply(.data = filename,
-#                        .fun = lines_counter,
-#                        .parallel = F,
-#                        .margins = 1))
-# 
-# 
-# n = rep(0,length(filename))
-# for (i in 1:length(filename)) {
-#   n[i] = system(paste("zgrep -vE 'RH NEG|RT NEG'", filename[i],"| wc -l"), intern = TRUE)
-# }
-# 
-# 
-# line <- fread(paste0("unzip -p ",filename[1]), sep = ";", fill = TRUE), select = c(1,2,3,4))
-
-# setwd("/home/antonio/Desktop/BigData/data/Clean")
-# list <- system("ls",intern =TRUE)
-# setwd("/home/antonio/Desktop/BigData/data/Download")
-# list2 <- system("ls",intern =TRUE)[1:100]
-
-# the following line returns TRUE if the zip file is not damaged
-# as.logical(grep("No errors detected in compressed data", system(paste("unzip -t", filename[2]), intern =T)[3]))
-
-# response <- system(paste("unzip -t", filename[1]), intern =T)
-# the followinf is super slow!
-# for (i in 1:length(del)) {
-#   system(paste("rm -f",del$V2[i]))
-#  system(paste("unzip -t", filename[2]), intern =T)
-  #corrupted[i] <-!as.logical(grep("No errors detected in compressed data", system(paste("unzip -t", filename[2]), intern =T)[3]))
-# }
-
-
-# nodes <- detectCores()
-# cl <- makePSOCKcluster(nodes)
-# registerDoParallel(cl)
-
-# B <- aaply(.data = filename,
-#       .fun = function(x) {
-#         paste(system(paste("unzip -t", x), intern =T),collapse = "")
-#       },
-#       .parallel = TRUE,
-#       .margins = 1)
-
-
-####
-# log = fread("zip_log.txt", fill = TRUE, sep = "[", header = F)
-
-# ind = grep("Archive", log$V1)
-# txt = rep(1,length(ind))
-# for (i in 1:(length(ind)-1)) {
-#   txt[i] = paste(log$V1[ind[i]:(ind[i+1]-1)], collapse = " ")
-# } 
-
-# txt <- as.data.table(txt)
-# a <- -grep("OK", txt$txt)
-# corrupted <- txt[a]
-
-# corrupted <- aaply(.data = corrupted$txt,
-#       .fun = function(x) {
-#         substr(x,11,24)
-#       }, .margins = 1)
-
-# corrupted <- corrupted[-length(corrupted)]

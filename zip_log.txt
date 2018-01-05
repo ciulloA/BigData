@@ -1,0 +1,1512 @@
+Archive:  2015-12-29.zip
+    testing: apphmb/intraday/NEG_20151229.TXT   OK
+No errors detected in compressed data of 2015-12-29.zip.
+Archive:  2015-12-30.zip
+    testing: apphmb/intraday/NEG_20151230.TXT   OK
+No errors detected in compressed data of 2015-12-30.zip.
+Archive:  2016-01-04.zip
+    testing: apphmb/intraday/NEG_20160104.TXT   OK
+No errors detected in compressed data of 2016-01-04.zip.
+Archive:  2016-01-05.zip
+    testing: apphmb/intraday/NEG_20160105.TXT   OK
+No errors detected in compressed data of 2016-01-05.zip.
+Archive:  2016-01-06.zip
+    testing: apphmb/intraday/NEG_20160106.TXT   OK
+No errors detected in compressed data of 2016-01-06.zip.
+Archive:  2016-01-07.zip
+    testing: apphmb/intraday/NEG_20160107.TXT   OK
+No errors detected in compressed data of 2016-01-07.zip.
+Archive:  2016-01-08.zip
+    testing: apphmb/intraday/NEG_20160108.TXT   OK
+No errors detected in compressed data of 2016-01-08.zip.
+Archive:  2016-01-11.zip
+    testing: apphmb/intraday/NEG_20160111.TXT   OK
+No errors detected in compressed data of 2016-01-11.zip.
+Archive:  2016-01-12.zip
+    testing: apphmb/intraday/NEG_20160112.TXT   OK
+No errors detected in compressed data of 2016-01-12.zip.
+Archive:  2016-01-13.zip
+    testing: apphmb/intraday/NEG_20160113.TXT   OK
+No errors detected in compressed data of 2016-01-13.zip.
+Archive:  2016-01-14.zip
+    testing: apphmb/intraday/NEG_20160114.TXT   OK
+No errors detected in compressed data of 2016-01-14.zip.
+Archive:  2016-01-15.zip
+    testing: apphmb/intraday/NEG_20160115.TXT   OK
+No errors detected in compressed data of 2016-01-15.zip.
+Archive:  2016-01-18.zip
+    testing: apphmb/intraday/NEG_20160118.TXT   OK
+No errors detected in compressed data of 2016-01-18.zip.
+Archive:  2016-01-19.zip
+    testing: apphmb/intraday/NEG_20160119.TXT   OK
+No errors detected in compressed data of 2016-01-19.zip.
+Archive:  2016-01-20.zip
+    testing: apphmb/intraday/NEG_20160120.TXT   OK
+No errors detected in compressed data of 2016-01-20.zip.
+Archive:  2016-01-21.zip
+    testing: apphmb/intraday/NEG_20160121.TXT   OK
+No errors detected in compressed data of 2016-01-21.zip.
+Archive:  2016-01-22.zip
+    testing: apphmb/intraday/NEG_20160122.TXT   OK
+No errors detected in compressed data of 2016-01-22.zip.
+Archive:  2016-01-26.zip
+    testing: apphmb/intraday/NEG_20160126.TXT   OK
+No errors detected in compressed data of 2016-01-26.zip.
+Archive:  2016-01-27.zip
+    testing: apphmb/intraday/NEG_20160127.TXT   OK
+No errors detected in compressed data of 2016-01-27.zip.
+Archive:  2016-01-28.zip
+    testing: apphmb/intraday/NEG_20160128.TXT   OK
+No errors detected in compressed data of 2016-01-28.zip.
+Archive:  2016-01-29.zip
+    testing: apphmb/intraday/NEG_20160129.TXT   OK
+No errors detected in compressed data of 2016-01-29.zip.
+Archive:  2016-02-01.zip
+    testing: apphmb/intraday/NEG_20160201.TXT   OK
+No errors detected in compressed data of 2016-02-01.zip.
+Archive:  2016-02-02.zip
+    testing: apphmb/intraday/NEG_20160202.TXT   OK
+No errors detected in compressed data of 2016-02-02.zip.
+Archive:  2016-02-03.zip
+    testing: apphmb/intraday/NEG_20160203.TXT   OK
+No errors detected in compressed data of 2016-02-03.zip.
+Archive:  2016-02-04.zip
+    testing: apphmb/intraday/NEG_20160204.TXT   OK
+No errors detected in compressed data of 2016-02-04.zip.
+Archive:  2016-02-05.zip
+    testing: apphmb/intraday/NEG_20160205.TXT   OK
+No errors detected in compressed data of 2016-02-05.zip.
+Archive:  2016-02-10.zip
+    testing: apphmb/intraday/NEG_20160210.TXT   OK
+No errors detected in compressed data of 2016-02-10.zip.
+Archive:  2016-02-11.zip
+    testing: apphmb/intraday/NEG_20160211.TXT   OK
+No errors detected in compressed data of 2016-02-11.zip.
+Archive:  2016-02-12.zip
+    testing: apphmb/intraday/NEG_20160212.TXT   OK
+No errors detected in compressed data of 2016-02-12.zip.
+Archive:  2016-02-15.zip
+    testing: apphmb/intraday/NEG_20160215.TXT   OK
+No errors detected in compressed data of 2016-02-15.zip.
+Archive:  2016-02-16.zip
+    testing: apphmb/intraday/NEG_20160216.TXT   OK
+No errors detected in compressed data of 2016-02-16.zip.
+Archive:  2016-02-17.zip
+    testing: apphmb/intraday/NEG_20160217.TXT   OK
+No errors detected in compressed data of 2016-02-17.zip.
+Archive:  2016-02-18.zip
+    testing: apphmb/intraday/NEG_20160218.TXT   OK
+No errors detected in compressed data of 2016-02-18.zip.
+Archive:  2016-02-19.zip
+    testing: apphmb/intraday/NEG_20160219.TXT   OK
+No errors detected in compressed data of 2016-02-19.zip.
+Archive:  2016-02-21.zip
+    testing: apphmb/intraday/NEG_BMF_20160221.TXT   OK
+No errors detected in compressed data of 2016-02-21.zip.
+Archive:  2016-02-22.zip
+    testing: apphmb/intraday/NEG_20160222.TXT   OK
+No errors detected in compressed data of 2016-02-22.zip.
+Archive:  2016-02-23.zip
+    testing: apphmb/intraday/NEG_20160223.TXT   OK
+No errors detected in compressed data of 2016-02-23.zip.
+Archive:  2016-02-24.zip
+    testing: apphmb/intraday/NEG_20160224.TXT   OK
+No errors detected in compressed data of 2016-02-24.zip.
+Archive:  2016-02-25.zip
+    testing: apphmb/intraday/NEG_20160225.TXT   OK
+No errors detected in compressed data of 2016-02-25.zip.
+Archive:  2016-02-26.zip
+    testing: apphmb/intraday/NEG_20160226.TXT   OK
+No errors detected in compressed data of 2016-02-26.zip.
+Archive:  2016-02-29.zip
+    testing: apphmb/intraday/NEG_20160229.TXT   OK
+No errors detected in compressed data of 2016-02-29.zip.
+Archive:  2016-03-01.zip
+    testing: apphmb/intraday/NEG_20160301.TXT   OK
+No errors detected in compressed data of 2016-03-01.zip.
+Archive:  2016-03-02.zip
+    testing: apphmb/intraday/NEG_20160302.TXT   OK
+No errors detected in compressed data of 2016-03-02.zip.
+Archive:  2016-03-03.zip
+    testing: apphmb/intraday/NEG_20160303.TXT   OK
+No errors detected in compressed data of 2016-03-03.zip.
+Archive:  2016-03-04.zip
+    testing: apphmb/intraday/NEG_20160304.TXT   OK
+No errors detected in compressed data of 2016-03-04.zip.
+Archive:  2016-03-07.zip
+    testing: apphmb/intraday/NEG_20160307.TXT   OK
+No errors detected in compressed data of 2016-03-07.zip.
+Archive:  2016-03-08.zip
+    testing: apphmb/intraday/NEG_20160308.TXT   OK
+No errors detected in compressed data of 2016-03-08.zip.
+Archive:  2016-03-09.zip
+    testing: apphmb/intraday/NEG_20160309.TXT   OK
+No errors detected in compressed data of 2016-03-09.zip.
+Archive:  2016-03-10.zip
+    testing: apphmb/intraday/NEG_20160310.TXT   OK
+No errors detected in compressed data of 2016-03-10.zip.
+Archive:  2016-03-11.zip
+    testing: apphmb/intraday/NEG_20160311.TXT   OK
+No errors detected in compressed data of 2016-03-11.zip.
+Archive:  2016-03-14.zip
+    testing: apphmb/intraday/NEG_20160314.TXT   OK
+No errors detected in compressed data of 2016-03-14.zip.
+Archive:  2016-03-15.zip
+    testing: apphmb/intraday/NEG_20160315.TXT   OK
+No errors detected in compressed data of 2016-03-15.zip.
+Archive:  2016-03-16.zip
+    testing: apphmb/intraday/NEG_20160316.TXT   OK
+No errors detected in compressed data of 2016-03-16.zip.
+Archive:  2016-03-17.zip
+    testing: apphmb/intraday/NEG_20160317.TXT   OK
+No errors detected in compressed data of 2016-03-17.zip.
+Archive:  2016-03-18.zip
+    testing: apphmb/intraday/NEG_20160318.TXT   OK
+No errors detected in compressed data of 2016-03-18.zip.
+Archive:  2016-03-21.zip
+    testing: apphmb/intraday/NEG_20160321.TXT   OK
+No errors detected in compressed data of 2016-03-21.zip.
+Archive:  2016-03-22.zip
+    testing: apphmb/intraday/NEG_20160322.TXT   OK
+No errors detected in compressed data of 2016-03-22.zip.
+Archive:  2016-03-23.zip
+    testing: apphmb/intraday/NEG_20160323.TXT   OK
+No errors detected in compressed data of 2016-03-23.zip.
+Archive:  2016-03-24.zip
+    testing: apphmb/intraday/NEG_20160324.TXT   OK
+No errors detected in compressed data of 2016-03-24.zip.
+Archive:  2016-03-27.zip
+    testing: apphmb/intraday/NEG_20160327.TXT   OK
+No errors detected in compressed data of 2016-03-27.zip.
+Archive:  2016-03-28.zip
+    testing: apphmb/intraday/NEG_20160328.TXT   OK
+No errors detected in compressed data of 2016-03-28.zip.
+Archive:  2016-03-29.zip
+    testing: apphmb/intraday/NEG_20160329.TXT   OK
+No errors detected in compressed data of 2016-03-29.zip.
+Archive:  2016-03-30.zip
+    testing: apphmb/intraday/NEG_20160330.TXT   OK
+No errors detected in compressed data of 2016-03-30.zip.
+Archive:  2016-03-31.zip
+    testing: apphmb/intraday/NEG_20160331.TXT   OK
+No errors detected in compressed data of 2016-03-31.zip.
+Archive:  2016-04-01.zip
+    testing: apphmb/intraday/NEG_20160401.TXT   OK
+No errors detected in compressed data of 2016-04-01.zip.
+Archive:  2016-04-03.zip
+    testing: apphmb/intraday/NEG_20160403.TXT   OK
+No errors detected in compressed data of 2016-04-03.zip.
+Archive:  2016-04-04.zip
+    testing: apphmb/intraday/NEG_20160404.TXT   OK
+No errors detected in compressed data of 2016-04-04.zip.
+Archive:  2016-04-05.zip
+    testing: apphmb/intraday/NEG_20160405.TXT   OK
+No errors detected in compressed data of 2016-04-05.zip.
+Archive:  2016-04-06.zip
+    testing: apphmb/intraday/NEG_20160406.TXT   OK
+No errors detected in compressed data of 2016-04-06.zip.
+Archive:  2016-04-07.zip
+    testing: apphmb/intraday/NEG_20160407.TXT   OK
+No errors detected in compressed data of 2016-04-07.zip.
+Archive:  2016-04-08.zip
+    testing: apphmb/intraday/NEG_20160408.TXT   OK
+No errors detected in compressed data of 2016-04-08.zip.
+Archive:  2016-04-10.zip
+    testing: apphmb/intraday/NEG_20160410.TXT   OK
+No errors detected in compressed data of 2016-04-10.zip.
+Archive:  2016-04-11.zip
+    testing: apphmb/intraday/NEG_20160411.TXT   OK
+No errors detected in compressed data of 2016-04-11.zip.
+Archive:  2016-04-12.zip
+    testing: apphmb/intraday/NEG_20160412.TXT   OK
+No errors detected in compressed data of 2016-04-12.zip.
+Archive:  2016-04-13.zip
+    testing: apphmb/intraday/NEG_20160413.TXT   OK
+No errors detected in compressed data of 2016-04-13.zip.
+Archive:  2016-04-14.zip
+    testing: apphmb/intraday/NEG_20160414.TXT   OK
+No errors detected in compressed data of 2016-04-14.zip.
+Archive:  2016-04-15.zip
+    testing: apphmb/intraday/NEG_20160415.TXT   OK
+No errors detected in compressed data of 2016-04-15.zip.
+Archive:  2016-04-17.zip
+    testing: apphmb/intraday/NEG_20160417.TXT   OK
+No errors detected in compressed data of 2016-04-17.zip.
+Archive:  2016-04-18.zip
+    testing: apphmb/intraday/NEG_20160418.TXT   OK
+No errors detected in compressed data of 2016-04-18.zip.
+Archive:  2016-04-19.zip
+    testing: apphmb/intraday/NEG_20160419.TXT   OK
+No errors detected in compressed data of 2016-04-19.zip.
+Archive:  2016-04-20.zip
+    testing: apphmb/intraday/NEG_20160420.TXT   OK
+No errors detected in compressed data of 2016-04-20.zip.
+Archive:  2016-04-22.zip
+    testing: apphmb/intraday/NEG_20160422.TXT   OK
+No errors detected in compressed data of 2016-04-22.zip.
+Archive:  2016-04-25.zip
+    testing: apphmb/intraday/NEG_20160425.TXT   OK
+No errors detected in compressed data of 2016-04-25.zip.
+Archive:  2016-04-26.zip
+    testing: apphmb/intraday/NEG_20160426.TXT   OK
+No errors detected in compressed data of 2016-04-26.zip.
+Archive:  2016-04-27.zip
+    testing: apphmb/intraday/NEG_20160427.TXT   OK
+No errors detected in compressed data of 2016-04-27.zip.
+Archive:  2016-04-28.zip
+    testing: apphmb/intraday/NEG_20160428.TXT   OK
+No errors detected in compressed data of 2016-04-28.zip.
+Archive:  2016-04-29.zip
+    testing: apphmb/intraday/NEG_20160429.TXT   OK
+No errors detected in compressed data of 2016-04-29.zip.
+Archive:  2016-05-02.zip
+    testing: apphmb/intraday/NEG_20160502.TXT   OK
+No errors detected in compressed data of 2016-05-02.zip.
+Archive:  2016-05-03.zip
+    testing: apphmb/intraday/NEG_20160503.TXT   OK
+No errors detected in compressed data of 2016-05-03.zip.
+Archive:  2016-05-04.zip
+    testing: apphmb/intraday/NEG_20160504.TXT   OK
+No errors detected in compressed data of 2016-05-04.zip.
+Archive:  2016-05-05.zip
+    testing: apphmb/intraday/NEG_20160505.TXT   OK
+No errors detected in compressed data of 2016-05-05.zip.
+Archive:  2016-05-06.zip
+    testing: apphmb/intraday/NEG_20160506.TXT   OK
+No errors detected in compressed data of 2016-05-06.zip.
+Archive:  2016-05-09.zip
+    testing: apphmb/intraday/NEG_20160509.TXT   OK
+No errors detected in compressed data of 2016-05-09.zip.
+Archive:  2016-05-10.zip
+    testing: apphmb/intraday/NEG_20160510.TXT   OK
+No errors detected in compressed data of 2016-05-10.zip.
+Archive:  2016-05-11.zip
+    testing: apphmb/intraday/NEG_20160511.TXT   OK
+No errors detected in compressed data of 2016-05-11.zip.
+Archive:  2016-05-12.zip
+    testing: apphmb/intraday/NEG_20160512.TXT   OK
+No errors detected in compressed data of 2016-05-12.zip.
+Archive:  2016-05-13.zip
+    testing: apphmb/intraday/NEG_20160513.TXT   OK
+No errors detected in compressed data of 2016-05-13.zip.
+Archive:  2016-05-16.zip
+    testing: apphmb/intraday/NEG_20160516.TXT   OK
+No errors detected in compressed data of 2016-05-16.zip.
+Archive:  2016-05-17.zip
+    testing: apphmb/intraday/NEG_20160517.TXT   OK
+No errors detected in compressed data of 2016-05-17.zip.
+Archive:  2016-05-18.zip
+    testing: apphmb/intraday/NEG_20160518.TXT   OK
+No errors detected in compressed data of 2016-05-18.zip.
+Archive:  2016-05-19.zip
+    testing: apphmb/intraday/NEG_20160519.TXT   OK
+No errors detected in compressed data of 2016-05-19.zip.
+Archive:  2016-05-20.zip
+    testing: apphmb/intraday/NEG_20160520.TXT   OK
+No errors detected in compressed data of 2016-05-20.zip.
+Archive:  2016-05-23.zip
+    testing: apphmb/intraday/NEG_20160523.TXT   OK
+No errors detected in compressed data of 2016-05-23.zip.
+Archive:  2016-05-24.zip
+    testing: apphmb/intraday/NEG_20160524.TXT   OK
+No errors detected in compressed data of 2016-05-24.zip.
+Archive:  2016-05-25.zip
+    testing: apphmb/intraday/NEG_20160525.TXT   OK
+No errors detected in compressed data of 2016-05-25.zip.
+Archive:  2016-05-27.zip
+    testing: apphmb/intraday/NEG_20160527.TXT   OK
+No errors detected in compressed data of 2016-05-27.zip.
+Archive:  2016-05-30.zip
+    testing: apphmb/intraday/NEG_20160530.TXT   OK
+No errors detected in compressed data of 2016-05-30.zip.
+Archive:  2016-05-31.zip
+    testing: apphmb/intraday/NEG_20160531.TXT   OK
+No errors detected in compressed data of 2016-05-31.zip.
+Archive:  2016-06-01.zip
+    testing: apphmb/intraday/NEG_20160601.TXT   OK
+No errors detected in compressed data of 2016-06-01.zip.
+Archive:  2016-06-02.zip
+    testing: apphmb/intraday/NEG_20160602.TXT   OK
+No errors detected in compressed data of 2016-06-02.zip.
+Archive:  2016-06-03.zip
+    testing: apphmb/intraday/NEG_20160603.TXT   OK
+No errors detected in compressed data of 2016-06-03.zip.
+Archive:  2016-06-06.zip
+    testing: apphmb/intraday/NEG_20160606.TXT   OK
+No errors detected in compressed data of 2016-06-06.zip.
+Archive:  2016-06-07.zip
+    testing: apphmb/intraday/NEG_20160607.TXT   OK
+No errors detected in compressed data of 2016-06-07.zip.
+Archive:  2016-06-08.zip
+    testing: apphmb/intraday/NEG_20160608.TXT   OK
+No errors detected in compressed data of 2016-06-08.zip.
+Archive:  2016-06-09.zip
+    testing: apphmb/intraday/NEG_20160609.TXT   OK
+No errors detected in compressed data of 2016-06-09.zip.
+Archive:  2016-06-10.zip
+    testing: apphmb/intraday/NEG_20160610.TXT   OK
+No errors detected in compressed data of 2016-06-10.zip.
+Archive:  2016-06-13.zip
+    testing: apphmb/intraday/NEG_20160613.TXT   OK
+No errors detected in compressed data of 2016-06-13.zip.
+Archive:  2016-06-14.zip
+    testing: apphmb/intraday/NEG_20160614.TXT   OK
+No errors detected in compressed data of 2016-06-14.zip.
+Archive:  2016-06-15.zip
+    testing: apphmb/intraday/NEG_20160615.TXT   OK
+No errors detected in compressed data of 2016-06-15.zip.
+Archive:  2016-06-16.zip
+    testing: apphmb/intraday/NEG_20160616.TXT   OK
+No errors detected in compressed data of 2016-06-16.zip.
+Archive:  2016-06-17.zip
+    testing: apphmb/intraday/NEG_20160617.TXT   OK
+No errors detected in compressed data of 2016-06-17.zip.
+Archive:  2016-06-20.zip
+    testing: apphmb/intraday/NEG_20160620.TXT   OK
+No errors detected in compressed data of 2016-06-20.zip.
+Archive:  2016-06-21.zip
+    testing: apphmb/intraday/NEG_20160621.TXT   OK
+No errors detected in compressed data of 2016-06-21.zip.
+Archive:  2016-06-22.zip
+    testing: apphmb/intraday/NEG_20160622.TXT   OK
+No errors detected in compressed data of 2016-06-22.zip.
+Archive:  2016-06-23.zip
+    testing: apphmb/intraday/NEG_20160623.TXT   OK
+No errors detected in compressed data of 2016-06-23.zip.
+Archive:  2016-06-24.zip
+    testing: apphmb/intraday/NEG_20160624.TXT   OK
+No errors detected in compressed data of 2016-06-24.zip.
+Archive:  2016-06-27.zip
+    testing: apphmb/intraday/NEG_20160627.TXT   OK
+No errors detected in compressed data of 2016-06-27.zip.
+Archive:  2016-06-28.zip
+    testing: apphmb/intraday/NEG_20160628.TXT   OK
+No errors detected in compressed data of 2016-06-28.zip.
+Archive:  2016-06-29.zip
+    testing: apphmb/intraday/NEG_20160629.TXT   OK
+No errors detected in compressed data of 2016-06-29.zip.
+Archive:  2016-06-30.zip
+    testing: apphmb/intraday/NEG_20160630.TXT   OK
+No errors detected in compressed data of 2016-06-30.zip.
+Archive:  2016-07-01.zip
+    testing: apphmb/intraday/NEG_20160701.TXT   OK
+No errors detected in compressed data of 2016-07-01.zip.
+Archive:  2016-07-04.zip
+    testing: apphmb/intraday/NEG_20160704.TXT   OK
+No errors detected in compressed data of 2016-07-04.zip.
+Archive:  2016-07-05.zip
+    testing: apphmb/intraday/NEG_20160705.TXT   OK
+No errors detected in compressed data of 2016-07-05.zip.
+Archive:  2016-07-06.zip
+    testing: apphmb/intraday/NEG_20160706.TXT   OK
+No errors detected in compressed data of 2016-07-06.zip.
+Archive:  2016-07-07.zip
+    testing: apphmb/intraday/NEG_20160707.TXT   OK
+No errors detected in compressed data of 2016-07-07.zip.
+Archive:  2016-07-08.zip
+    testing: apphmb/intraday/NEG_20160708.TXT   OK
+No errors detected in compressed data of 2016-07-08.zip.
+Archive:  2016-07-11.zip
+    testing: apphmb/intraday/NEG_20160711.TXT   OK
+No errors detected in compressed data of 2016-07-11.zip.
+Archive:  2016-07-12.zip
+    testing: apphmb/intraday/NEG_20160712.TXT   OK
+No errors detected in compressed data of 2016-07-12.zip.
+Archive:  2016-07-13.zip
+    testing: apphmb/intraday/NEG_20160713.TXT   OK
+No errors detected in compressed data of 2016-07-13.zip.
+Archive:  2016-07-14.zip
+    testing: apphmb/intraday/NEG_20160714.TXT   OK
+No errors detected in compressed data of 2016-07-14.zip.
+Archive:  2016-07-15.zip
+    testing: apphmb/intraday/NEG_20160715.TXT   OK
+No errors detected in compressed data of 2016-07-15.zip.
+Archive:  2016-07-18.zip
+    testing: apphmb/intraday/NEG_20160718.TXT   OK
+No errors detected in compressed data of 2016-07-18.zip.
+Archive:  2016-07-19.zip
+    testing: apphmb/intraday/NEG_20160719.TXT   OK
+No errors detected in compressed data of 2016-07-19.zip.
+Archive:  2016-07-20.zip
+    testing: apphmb/intraday/NEG_20160720.TXT   OK
+No errors detected in compressed data of 2016-07-20.zip.
+Archive:  2016-07-21.zip
+    testing: apphmb/intraday/NEG_20160721.TXT   OK
+No errors detected in compressed data of 2016-07-21.zip.
+Archive:  2016-07-22.zip
+    testing: apphmb/intraday/NEG_20160722.TXT   OK
+No errors detected in compressed data of 2016-07-22.zip.
+Archive:  2016-07-25.zip
+    testing: apphmb/intraday/NEG_20160725.TXT   OK
+No errors detected in compressed data of 2016-07-25.zip.
+Archive:  2016-07-26.zip
+    testing: apphmb/intraday/NEG_20160726.TXT   OK
+No errors detected in compressed data of 2016-07-26.zip.
+Archive:  2016-07-27.zip
+    testing: apphmb/intraday/NEG_20160727.TXT   OK
+No errors detected in compressed data of 2016-07-27.zip.
+Archive:  2016-07-28.zip
+    testing: apphmb/intraday/NEG_20160728.TXT   OK
+No errors detected in compressed data of 2016-07-28.zip.
+Archive:  2016-07-29.zip
+    testing: apphmb/intraday/NEG_20160729.TXT   OK
+No errors detected in compressed data of 2016-07-29.zip.
+Archive:  2016-08-01.zip
+    testing: apphmb/intraday/NEG_20160801.TXT   OK
+No errors detected in compressed data of 2016-08-01.zip.
+Archive:  2016-08-02.zip
+    testing: apphmb/intraday/NEG_20160802.TXT   OK
+No errors detected in compressed data of 2016-08-02.zip.
+Archive:  2016-08-03.zip
+    testing: apphmb/intraday/NEG_20160803.TXT   OK
+No errors detected in compressed data of 2016-08-03.zip.
+Archive:  2016-08-04.zip
+    testing: apphmb/intraday/NEG_20160804.TXT   OK
+No errors detected in compressed data of 2016-08-04.zip.
+Archive:  2016-08-05.zip
+    testing: apphmb/intraday/NEG_20160805.TXT   OK
+No errors detected in compressed data of 2016-08-05.zip.
+Archive:  2016-08-08.zip
+    testing: apphmb/intraday/NEG_20160808.TXT   OK
+No errors detected in compressed data of 2016-08-08.zip.
+Archive:  2016-08-09.zip
+    testing: apphmb/intraday/NEG_20160809.TXT   OK
+No errors detected in compressed data of 2016-08-09.zip.
+Archive:  2016-08-10.zip
+    testing: apphmb/intraday/NEG_20160810.TXT   OK
+No errors detected in compressed data of 2016-08-10.zip.
+Archive:  2016-08-11.zip
+    testing: apphmb/intraday/NEG_20160811.TXT   OK
+No errors detected in compressed data of 2016-08-11.zip.
+Archive:  2016-08-12.zip
+    testing: apphmb/intraday/NEG_20160812.TXT   OK
+No errors detected in compressed data of 2016-08-12.zip.
+Archive:  2016-08-15.zip
+    testing: apphmb/intraday/NEG_20160815.TXT   OK
+No errors detected in compressed data of 2016-08-15.zip.
+Archive:  2016-08-16.zip
+    testing: apphmb/intraday/NEG_20160816.TXT   OK
+No errors detected in compressed data of 2016-08-16.zip.
+Archive:  2016-08-17.zip
+    testing: apphmb/intraday/NEG_20160817.TXT   OK
+No errors detected in compressed data of 2016-08-17.zip.
+Archive:  2016-08-18.zip
+    testing: apphmb/intraday/NEG_20160818.TXT   OK
+No errors detected in compressed data of 2016-08-18.zip.
+Archive:  2016-08-19.zip
+    testing: apphmb/intraday/NEG_20160819.TXT   OK
+No errors detected in compressed data of 2016-08-19.zip.
+Archive:  2016-08-22.zip
+    testing: apphmb/intraday/NEG_20160822.TXT   OK
+No errors detected in compressed data of 2016-08-22.zip.
+Archive:  2016-08-23.zip
+    testing: apphmb/intraday/NEG_20160823.TXT   OK
+No errors detected in compressed data of 2016-08-23.zip.
+Archive:  2016-08-24.zip
+    testing: apphmb/intraday/NEG_20160824.TXT   OK
+No errors detected in compressed data of 2016-08-24.zip.
+Archive:  2016-08-25.zip
+    testing: apphmb/intraday/NEG_20160825.TXT   OK
+No errors detected in compressed data of 2016-08-25.zip.
+Archive:  2016-08-26.zip
+    testing: apphmb/intraday/NEG_20160826.TXT   OK
+No errors detected in compressed data of 2016-08-26.zip.
+Archive:  2016-08-29.zip
+    testing: apphmb/intraday/NEG_20160829.TXT   OK
+No errors detected in compressed data of 2016-08-29.zip.
+Archive:  2016-08-30.zip
+    testing: apphmb/intraday/NEG_20160830.TXT   OK
+No errors detected in compressed data of 2016-08-30.zip.
+Archive:  2016-08-31.zip
+    testing: apphmb/intraday/NEG_20160831.TXT   OK
+No errors detected in compressed data of 2016-08-31.zip.
+Archive:  2016-09-01.zip
+    testing: apphmb/intraday/NEG_20160901.TXT   OK
+No errors detected in compressed data of 2016-09-01.zip.
+Archive:  2016-09-02.zip
+    testing: apphmb/intraday/NEG_20160902.TXT   OK
+No errors detected in compressed data of 2016-09-02.zip.
+Archive:  2016-09-05.zip
+    testing: apphmb/intraday/NEG_20160905.TXT   OK
+No errors detected in compressed data of 2016-09-05.zip.
+Archive:  2016-09-06.zip
+    testing: apphmb/intraday/NEG_20160906.TXT   OK
+No errors detected in compressed data of 2016-09-06.zip.
+Archive:  2016-09-08.zip
+    testing: apphmb/intraday/NEG_20160908.TXT   OK
+No errors detected in compressed data of 2016-09-08.zip.
+Archive:  2016-09-09.zip
+    testing: apphmb/intraday/NEG_20160909.TXT   OK
+No errors detected in compressed data of 2016-09-09.zip.
+Archive:  2016-09-12.zip
+    testing: apphmb/intraday/NEG_20160912.TXT   OK
+No errors detected in compressed data of 2016-09-12.zip.
+Archive:  2016-09-13.zip
+    testing: apphmb/intraday/NEG_20160913.TXT   OK
+No errors detected in compressed data of 2016-09-13.zip.
+Archive:  2016-09-14.zip
+    testing: apphmb/intraday/NEG_20160914.TXT   OK
+No errors detected in compressed data of 2016-09-14.zip.
+Archive:  2016-09-15.zip
+    testing: apphmb/intraday/NEG_20160915.TXT   OK
+No errors detected in compressed data of 2016-09-15.zip.
+Archive:  2016-09-16.zip
+    testing: apphmb/intraday/NEG_20160916.TXT   OK
+No errors detected in compressed data of 2016-09-16.zip.
+Archive:  2016-09-19.zip
+    testing: apphmb/intraday/NEG_20160919.TXT   OK
+No errors detected in compressed data of 2016-09-19.zip.
+Archive:  2016-09-20.zip
+    testing: apphmb/intraday/NEG_20160920.TXT   OK
+No errors detected in compressed data of 2016-09-20.zip.
+Archive:  2016-09-21.zip
+    testing: apphmb/intraday/NEG_20160921.TXT   OK
+No errors detected in compressed data of 2016-09-21.zip.
+Archive:  2016-09-22.zip
+    testing: apphmb/intraday/NEG_20160922.TXT   OK
+No errors detected in compressed data of 2016-09-22.zip.
+Archive:  2016-09-23.zip
+    testing: apphmb/intraday/NEG_20160923.TXT   OK
+No errors detected in compressed data of 2016-09-23.zip.
+Archive:  2016-09-26.zip
+    testing: apphmb/intraday/NEG_20160926.TXT   OK
+No errors detected in compressed data of 2016-09-26.zip.
+Archive:  2016-09-27.zip
+    testing: apphmb/intraday/NEG_20160927.TXT   OK
+No errors detected in compressed data of 2016-09-27.zip.
+Archive:  2016-09-28.zip
+    testing: apphmb/intraday/NEG_20160928.TXT   OK
+No errors detected in compressed data of 2016-09-28.zip.
+Archive:  2016-09-29.zip
+    testing: apphmb/intraday/NEG_20160929.TXT   OK
+No errors detected in compressed data of 2016-09-29.zip.
+Archive:  2016-09-30.zip
+    testing: apphmb/intraday/NEG_20160930.TXT   OK
+No errors detected in compressed data of 2016-09-30.zip.
+Archive:  2016-10-03.zip
+    testing: NEG_20161003.TXT         OK
+No errors detected in compressed data of 2016-10-03.zip.
+Archive:  2016-10-04.zip
+    testing: NEG_20161004.TXT         OK
+No errors detected in compressed data of 2016-10-04.zip.
+Archive:  2016-10-05.zip
+    testing: NEG_20161005.TXT         OK
+No errors detected in compressed data of 2016-10-05.zip.
+Archive:  2016-10-06.zip
+    testing: NEG_20161006.TXT         OK
+No errors detected in compressed data of 2016-10-06.zip.
+Archive:  2016-10-07.zip
+    testing: NEG_20161007.TXT         OK
+No errors detected in compressed data of 2016-10-07.zip.
+Archive:  2016-10-10.zip
+    testing: NEG_20161010.TXT         OK
+No errors detected in compressed data of 2016-10-10.zip.
+Archive:  2016-10-11.zip
+    testing: NEG_20161011.TXT         OK
+No errors detected in compressed data of 2016-10-11.zip.
+Archive:  2016-10-13.zip
+    testing: NEG_20161013.TXT         OK
+No errors detected in compressed data of 2016-10-13.zip.
+Archive:  2016-10-14.zip
+    testing: NEG_20161014.TXT         OK
+No errors detected in compressed data of 2016-10-14.zip.
+Archive:  2016-10-17.zip
+    testing: NEG_20161017.TXT         OK
+No errors detected in compressed data of 2016-10-17.zip.
+Archive:  2016-10-18.zip
+    testing: NEG_20161018.TXT         OK
+No errors detected in compressed data of 2016-10-18.zip.
+Archive:  2016-10-19.zip
+    testing: NEG_20161019.TXT         OK
+No errors detected in compressed data of 2016-10-19.zip.
+Archive:  2016-10-20.zip
+    testing: NEG_20161020.TXT         OK
+No errors detected in compressed data of 2016-10-20.zip.
+Archive:  2016-10-21.zip
+    testing: NEG_20161021.TXT         OK
+No errors detected in compressed data of 2016-10-21.zip.
+Archive:  2016-10-24.zip
+    testing: NEG_20161024.TXT         OK
+No errors detected in compressed data of 2016-10-24.zip.
+Archive:  2016-10-25.zip
+    testing: NEG_20161025.TXT         OK
+No errors detected in compressed data of 2016-10-25.zip.
+Archive:  2016-10-26.zip
+    testing: NEG_20161026.TXT         OK
+No errors detected in compressed data of 2016-10-26.zip.
+Archive:  2016-10-27.zip
+    testing: NEG_20161027.TXT         OK
+No errors detected in compressed data of 2016-10-27.zip.
+Archive:  2016-10-28.zip
+    testing: NEG_20161028.TXT         OK
+No errors detected in compressed data of 2016-10-28.zip.
+Archive:  2016-10-31.zip
+    testing: NEG_20161031.TXT         OK
+No errors detected in compressed data of 2016-10-31.zip.
+Archive:  2016-11-01.zip
+    testing: NEG_20161101.TXT         OK
+No errors detected in compressed data of 2016-11-01.zip.
+Archive:  2016-11-03.zip
+    testing: NEG_20161103.TXT         OK
+No errors detected in compressed data of 2016-11-03.zip.
+Archive:  2016-11-04.zip
+    testing: NEG_20161104.TXT         OK
+No errors detected in compressed data of 2016-11-04.zip.
+Archive:  2016-11-07.zip
+    testing: NEG_20161107.TXT         OK
+No errors detected in compressed data of 2016-11-07.zip.
+Archive:  2016-11-08.zip
+    testing: NEG_20161108.TXT         OK
+No errors detected in compressed data of 2016-11-08.zip.
+Archive:  2016-11-09.zip
+    testing: NEG_20161109.TXT         OK
+No errors detected in compressed data of 2016-11-09.zip.
+Archive:  2016-11-10.zip
+    testing: NEG_20161110.TXT         OK
+No errors detected in compressed data of 2016-11-10.zip.
+Archive:  2016-11-11.zip
+    testing: NEG_20161111.TXT         OK
+No errors detected in compressed data of 2016-11-11.zip.
+Archive:  2016-11-14.zip
+    testing: NEG_20161114.TXT         OK
+No errors detected in compressed data of 2016-11-14.zip.
+Archive:  2016-11-16.zip
+    testing: NEG_20161116.TXT         OK
+No errors detected in compressed data of 2016-11-16.zip.
+Archive:  2016-11-17.zip
+    testing: NEG_20161117.TXT         OK
+No errors detected in compressed data of 2016-11-17.zip.
+Archive:  2016-11-18.zip
+    testing: NEG_20161118.TXT         OK
+No errors detected in compressed data of 2016-11-18.zip.
+Archive:  2016-11-21.zip
+    testing: NEG_20161121.TXT         OK
+No errors detected in compressed data of 2016-11-21.zip.
+Archive:  2016-11-22.zip
+    testing: NEG_20161122.TXT         OK
+No errors detected in compressed data of 2016-11-22.zip.
+Archive:  2016-11-23.zip
+    testing: NEG_20161123.TXT         OK
+No errors detected in compressed data of 2016-11-23.zip.
+Archive:  2016-11-24.zip
+    testing: NEG_20161124.TXT         OK
+No errors detected in compressed data of 2016-11-24.zip.
+Archive:  2016-11-25.zip
+    testing: NEG_20161125.TXT         OK
+No errors detected in compressed data of 2016-11-25.zip.
+Archive:  2016-11-28.zip
+    testing: NEG_20161128.TXT         OK
+No errors detected in compressed data of 2016-11-28.zip.
+Archive:  2016-11-29.zip
+    testing: NEG_20161129.TXT         OK
+No errors detected in compressed data of 2016-11-29.zip.
+Archive:  2016-11-30.zip
+    testing: NEG_20161130.TXT         OK
+No errors detected in compressed data of 2016-11-30.zip.
+Archive:  2016-12-01.zip
+    testing: NEG_20161201.TXT         OK
+No errors detected in compressed data of 2016-12-01.zip.
+Archive:  2016-12-02.zip
+    testing: NEG_20161202.TXT         OK
+No errors detected in compressed data of 2016-12-02.zip.
+Archive:  2016-12-05.zip
+    testing: NEG_20161205.TXT         OK
+No errors detected in compressed data of 2016-12-05.zip.
+Archive:  2016-12-06.zip
+    testing: NEG_20161206.TXT         OK
+No errors detected in compressed data of 2016-12-06.zip.
+Archive:  2016-12-07.zip
+    testing: NEG_20161207.TXT         OK
+No errors detected in compressed data of 2016-12-07.zip.
+Archive:  2016-12-08.zip
+    testing: NEG_20161208.TXT         OK
+No errors detected in compressed data of 2016-12-08.zip.
+Archive:  2016-12-09.zip
+    testing: NEG_20161209.TXT         OK
+No errors detected in compressed data of 2016-12-09.zip.
+Archive:  2016-12-12.zip
+    testing: NEG_20161212.TXT         OK
+No errors detected in compressed data of 2016-12-12.zip.
+Archive:  2016-12-13.zip
+    testing: NEG_20161213.TXT         OK
+No errors detected in compressed data of 2016-12-13.zip.
+Archive:  2016-12-14.zip
+    testing: NEG_20161214.TXT         OK
+No errors detected in compressed data of 2016-12-14.zip.
+Archive:  2016-12-15.zip
+    testing: NEG_20161215.TXT         OK
+No errors detected in compressed data of 2016-12-15.zip.
+Archive:  2016-12-16.zip
+    testing: NEG_20161216.TXT         OK
+No errors detected in compressed data of 2016-12-16.zip.
+Archive:  2016-12-19.zip
+    testing: NEG_20161219.TXT         OK
+No errors detected in compressed data of 2016-12-19.zip.
+Archive:  2016-12-20.zip
+    testing: NEG_20161220.TXT         OK
+No errors detected in compressed data of 2016-12-20.zip.
+Archive:  2016-12-21.zip
+    testing: NEG_20161221.TXT         OK
+No errors detected in compressed data of 2016-12-21.zip.
+Archive:  2016-12-22.zip
+    testing: NEG_20161222.TXT         OK
+No errors detected in compressed data of 2016-12-22.zip.
+Archive:  2016-12-23.zip
+    testing: NEG_20161223.TXT         OK
+No errors detected in compressed data of 2016-12-23.zip.
+Archive:  2016-12-26.zip
+    testing: NEG_20161226.TXT         OK
+No errors detected in compressed data of 2016-12-26.zip.
+Archive:  2016-12-27.zip
+    testing: NEG_20161227.TXT         OK
+No errors detected in compressed data of 2016-12-27.zip.
+Archive:  2016-12-28.zip
+    testing: NEG_20161228.TXT         OK
+No errors detected in compressed data of 2016-12-28.zip.
+Archive:  2016-12-29.zip
+    testing: NEG_20161229.TXT         OK
+No errors detected in compressed data of 2016-12-29.zip.
+Archive:  2017-01-02.zip
+    testing: NEG_20170102.TXT         OK
+No errors detected in compressed data of 2017-01-02.zip.
+Archive:  2017-01-03.zip
+    testing: NEG_20170103.TXT         OK
+No errors detected in compressed data of 2017-01-03.zip.
+Archive:  2017-01-04.zip
+    testing: NEG_20170104.TXT         OK
+No errors detected in compressed data of 2017-01-04.zip.
+Archive:  2017-01-05.zip
+    testing: NEG_20170105.TXT         OK
+No errors detected in compressed data of 2017-01-05.zip.
+Archive:  2017-01-06.zip
+    testing: NEG_20170106.TXT         OK
+No errors detected in compressed data of 2017-01-06.zip.
+Archive:  2017-01-09.zip
+    testing: NEG_20170109.TXT         OK
+No errors detected in compressed data of 2017-01-09.zip.
+Archive:  2017-01-10.zip
+    testing: NEG_20170110.TXT         OK
+No errors detected in compressed data of 2017-01-10.zip.
+Archive:  2017-01-11.zip
+    testing: NEG_20170111.TXT         OK
+No errors detected in compressed data of 2017-01-11.zip.
+Archive:  2017-01-12.zip
+    testing: NEG_20170112.TXT         OK
+No errors detected in compressed data of 2017-01-12.zip.
+Archive:  2017-01-13.zip
+    testing: NEG_20170113.TXT         OK
+No errors detected in compressed data of 2017-01-13.zip.
+Archive:  2017-01-16.zip
+    testing: NEG_20170116.TXT         OK
+No errors detected in compressed data of 2017-01-16.zip.
+Archive:  2017-01-17.zip
+    testing: NEG_20170117.TXT         OK
+No errors detected in compressed data of 2017-01-17.zip.
+Archive:  2017-01-18.zip
+    testing: NEG_20170118.TXT         OK
+No errors detected in compressed data of 2017-01-18.zip.
+Archive:  2017-01-19.zip
+    testing: NEG_20170119.TXT         OK
+No errors detected in compressed data of 2017-01-19.zip.
+Archive:  2017-01-20.zip
+    testing: NEG_20170120.TXT         OK
+No errors detected in compressed data of 2017-01-20.zip.
+Archive:  2017-01-23.zip
+    testing: NEG_20170123.TXT         OK
+No errors detected in compressed data of 2017-01-23.zip.
+Archive:  2017-01-24.zip
+    testing: NEG_20170124.TXT         OK
+No errors detected in compressed data of 2017-01-24.zip.
+Archive:  2017-01-26.zip
+    testing: NEG_20170126.TXT         OK
+No errors detected in compressed data of 2017-01-26.zip.
+Archive:  2017-01-27.zip
+    testing: NEG_20170127.TXT         OK
+No errors detected in compressed data of 2017-01-27.zip.
+Archive:  2017-01-30.zip
+    testing: NEG_20170130.TXT         OK
+No errors detected in compressed data of 2017-01-30.zip.
+Archive:  2017-01-31.zip
+    testing: NEG_20170131.TXT         OK
+No errors detected in compressed data of 2017-01-31.zip.
+Archive:  2017-02-01.zip
+    testing: NEG_20170201.TXT         OK
+No errors detected in compressed data of 2017-02-01.zip.
+Archive:  2017-02-02.zip
+    testing: NEG_20170202.TXT         OK
+No errors detected in compressed data of 2017-02-02.zip.
+Archive:  2017-02-03.zip
+    testing: NEG_20170203.TXT         OK
+No errors detected in compressed data of 2017-02-03.zip.
+Archive:  2017-02-06.zip
+    testing: NEG_20170206.TXT         OK
+No errors detected in compressed data of 2017-02-06.zip.
+Archive:  2017-02-07.zip
+    testing: NEG_20170207.TXT         OK
+No errors detected in compressed data of 2017-02-07.zip.
+Archive:  2017-02-08.zip
+    testing: NEG_20170208.TXT         OK
+No errors detected in compressed data of 2017-02-08.zip.
+Archive:  2017-02-09.zip
+    testing: NEG_20170209.TXT         OK
+No errors detected in compressed data of 2017-02-09.zip.
+Archive:  2017-02-10.zip
+    testing: NEG_20170210.TXT         OK
+No errors detected in compressed data of 2017-02-10.zip.
+Archive:  2017-02-13.zip
+    testing: NEG_20170213.TXT         OK
+No errors detected in compressed data of 2017-02-13.zip.
+Archive:  2017-02-14.zip
+    testing: NEG_20170214.TXT         OK
+No errors detected in compressed data of 2017-02-14.zip.
+Archive:  2017-02-15.zip
+    testing: NEG_20170215.TXT         OK
+No errors detected in compressed data of 2017-02-15.zip.
+Archive:  2017-02-16.zip
+    testing: NEG_20170216.TXT         OK
+No errors detected in compressed data of 2017-02-16.zip.
+Archive:  2017-02-17.zip
+    testing: NEG_20170217.TXT         OK
+No errors detected in compressed data of 2017-02-17.zip.
+Archive:  2017-02-20.zip
+    testing: NEG_20170220.TXT         OK
+No errors detected in compressed data of 2017-02-20.zip.
+Archive:  2017-02-21.zip
+    testing: NEG_20170221.TXT         OK
+No errors detected in compressed data of 2017-02-21.zip.
+Archive:  2017-02-22.zip
+    testing: NEG_20170222.TXT         OK
+No errors detected in compressed data of 2017-02-22.zip.
+Archive:  2017-02-23.zip
+    testing: NEG_20170223.TXT         OK
+No errors detected in compressed data of 2017-02-23.zip.
+Archive:  2017-02-24.zip
+    testing: NEG_20170224.TXT         OK
+No errors detected in compressed data of 2017-02-24.zip.
+Archive:  2017-03-01.zip
+    testing: NEG_20170301.TXT         OK
+No errors detected in compressed data of 2017-03-01.zip.
+Archive:  2017-03-02.zip
+    testing: NEG_20170302.TXT         OK
+No errors detected in compressed data of 2017-03-02.zip.
+Archive:  2017-03-03.zip
+    testing: NEG_20170303.TXT         OK
+No errors detected in compressed data of 2017-03-03.zip.
+Archive:  2017-03-06.zip
+    testing: NEG_20170306.TXT         OK
+No errors detected in compressed data of 2017-03-06.zip.
+Archive:  2017-03-07.zip
+    testing: NEG_20170307.TXT         OK
+No errors detected in compressed data of 2017-03-07.zip.
+Archive:  2017-03-08.zip
+    testing: NEG_20170308.TXT         OK
+No errors detected in compressed data of 2017-03-08.zip.
+Archive:  2017-03-09.zip
+    testing: NEG_20170309.TXT         OK
+No errors detected in compressed data of 2017-03-09.zip.
+Archive:  2017-03-10.zip
+    testing: NEG_20170310.TXT         OK
+No errors detected in compressed data of 2017-03-10.zip.
+Archive:  2017-03-13.zip
+    testing: NEG_20170313.TXT         OK
+No errors detected in compressed data of 2017-03-13.zip.
+Archive:  2017-03-14.zip
+    testing: NEG_20170314.TXT         OK
+No errors detected in compressed data of 2017-03-14.zip.
+Archive:  2017-03-15.zip
+    testing: NEG_20170315.TXT         OK
+No errors detected in compressed data of 2017-03-15.zip.
+Archive:  2017-03-16.zip
+    testing: NEG_20170316.TXT         OK
+No errors detected in compressed data of 2017-03-16.zip.
+Archive:  2017-03-17.zip
+    testing: NEG_20170317.TXT         OK
+No errors detected in compressed data of 2017-03-17.zip.
+Archive:  2017-03-20.zip
+    testing: NEG_20170320.TXT         OK
+No errors detected in compressed data of 2017-03-20.zip.
+Archive:  2017-03-21.zip
+    testing: NEG_20170321.TXT         OK
+No errors detected in compressed data of 2017-03-21.zip.
+Archive:  2017-03-22.zip
+    testing: NEG_20170322.TXT         OK
+No errors detected in compressed data of 2017-03-22.zip.
+Archive:  2017-03-23.zip
+    testing: NEG_20170323.TXT         OK
+No errors detected in compressed data of 2017-03-23.zip.
+Archive:  2017-03-24.zip
+    testing: NEG_20170324.TXT         OK
+No errors detected in compressed data of 2017-03-24.zip.
+Archive:  2017-03-27.zip
+    testing: NEG_20170327.TXT         OK
+No errors detected in compressed data of 2017-03-27.zip.
+Archive:  2017-03-28.zip
+    testing: NEG_20170328.TXT         OK
+No errors detected in compressed data of 2017-03-28.zip.
+Archive:  2017-03-29.zip
+    testing: NEG_20170329.TXT         OK
+No errors detected in compressed data of 2017-03-29.zip.
+Archive:  2017-03-30.zip
+    testing: NEG_20170330.TXT         OK
+No errors detected in compressed data of 2017-03-30.zip.
+Archive:  2017-03-31.zip
+    testing: NEG_20170331.TXT         OK
+No errors detected in compressed data of 2017-03-31.zip.
+Archive:  2017-04-03.zip
+    testing: NEG_20170403.TXT         OK
+No errors detected in compressed data of 2017-04-03.zip.
+Archive:  2017-04-04.zip
+    testing: NEG_20170404.TXT         OK
+No errors detected in compressed data of 2017-04-04.zip.
+Archive:  2017-04-05.zip
+    testing: NEG_20170405.TXT         OK
+No errors detected in compressed data of 2017-04-05.zip.
+Archive:  2017-04-06.zip
+    testing: NEG_20170406.TXT         OK
+No errors detected in compressed data of 2017-04-06.zip.
+Archive:  2017-04-07.zip
+    testing: NEG_20170407.TXT         OK
+No errors detected in compressed data of 2017-04-07.zip.
+Archive:  2017-04-10.zip
+    testing: NEG_20170410.TXT         OK
+No errors detected in compressed data of 2017-04-10.zip.
+Archive:  2017-04-11.zip
+    testing: NEG_20170411.TXT         OK
+No errors detected in compressed data of 2017-04-11.zip.
+Archive:  2017-04-12.zip
+    testing: NEG_20170412.TXT         OK
+No errors detected in compressed data of 2017-04-12.zip.
+Archive:  2017-04-13.zip
+    testing: NEG_20170413.TXT         OK
+No errors detected in compressed data of 2017-04-13.zip.
+Archive:  2017-04-17.zip
+    testing: NEG_20170417.TXT         OK
+No errors detected in compressed data of 2017-04-17.zip.
+Archive:  2017-04-18.zip
+    testing: NEG_20170418.TXT         OK
+No errors detected in compressed data of 2017-04-18.zip.
+Archive:  2017-04-19.zip
+    testing: NEG_20170419.TXT         OK
+No errors detected in compressed data of 2017-04-19.zip.
+Archive:  2017-04-20.zip
+    testing: NEG_20170420.TXT         OK
+No errors detected in compressed data of 2017-04-20.zip.
+Archive:  2017-04-24.zip
+    testing: NEG_20170424.TXT         OK
+No errors detected in compressed data of 2017-04-24.zip.
+Archive:  2017-04-25.zip
+    testing: NEG_20170425.TXT         OK
+No errors detected in compressed data of 2017-04-25.zip.
+Archive:  2017-04-26.zip
+    testing: NEG_20170426.TXT         OK
+No errors detected in compressed data of 2017-04-26.zip.
+Archive:  2017-04-27.zip
+    testing: NEG_20170427.TXT         OK
+No errors detected in compressed data of 2017-04-27.zip.
+Archive:  2017-04-28.zip
+    testing: NEG_20170428.TXT         OK
+No errors detected in compressed data of 2017-04-28.zip.
+Archive:  2017-05-02.zip
+    testing: NEG_20170502.TXT         OK
+No errors detected in compressed data of 2017-05-02.zip.
+Archive:  2017-05-03.zip
+    testing: NEG_20170503.TXT         OK
+No errors detected in compressed data of 2017-05-03.zip.
+Archive:  2017-05-04.zip
+    testing: NEG_20170504.TXT         OK
+No errors detected in compressed data of 2017-05-04.zip.
+Archive:  2017-05-05.zip
+    testing: NEG_20170505.TXT         OK
+No errors detected in compressed data of 2017-05-05.zip.
+Archive:  2017-05-08.zip
+    testing: NEG_20170508.TXT         OK
+No errors detected in compressed data of 2017-05-08.zip.
+Archive:  2017-05-09.zip
+    testing: NEG_20170509.TXT         OK
+No errors detected in compressed data of 2017-05-09.zip.
+Archive:  2017-05-10.zip
+    testing: NEG_20170510.TXT         OK
+No errors detected in compressed data of 2017-05-10.zip.
+Archive:  2017-05-11.zip
+    testing: NEG_20170511.TXT         OK
+No errors detected in compressed data of 2017-05-11.zip.
+Archive:  2017-05-12.zip
+    testing: NEG_20170512.TXT         OK
+No errors detected in compressed data of 2017-05-12.zip.
+Archive:  2017-05-15.zip
+    testing: NEG_20170515.TXT         OK
+No errors detected in compressed data of 2017-05-15.zip.
+Archive:  2017-05-16.zip
+    testing: NEG_20170516.TXT         OK
+No errors detected in compressed data of 2017-05-16.zip.
+Archive:  2017-05-17.zip
+    testing: NEG_20170517.TXT         OK
+No errors detected in compressed data of 2017-05-17.zip.
+Archive:  2017-05-18.zip
+    testing: NEG_20170518.TXT         OK
+No errors detected in compressed data of 2017-05-18.zip.
+Archive:  2017-05-19.zip
+    testing: NEG_20170519.TXT         OK
+No errors detected in compressed data of 2017-05-19.zip.
+Archive:  2017-05-22.zip
+    testing: NEG_20170522.TXT         OK
+No errors detected in compressed data of 2017-05-22.zip.
+Archive:  2017-05-23.zip
+    testing: NEG_20170523.TXT         OK
+No errors detected in compressed data of 2017-05-23.zip.
+Archive:  2017-05-24.zip
+    testing: NEG_20170524.TXT         OK
+No errors detected in compressed data of 2017-05-24.zip.
+Archive:  2017-05-25.zip
+    testing: NEG_20170525.TXT         OK
+No errors detected in compressed data of 2017-05-25.zip.
+Archive:  2017-05-26.zip
+    testing: NEG_20170526.TXT         OK
+No errors detected in compressed data of 2017-05-26.zip.
+Archive:  2017-05-29.zip
+    testing: NEG_20170529.TXT         OK
+No errors detected in compressed data of 2017-05-29.zip.
+Archive:  2017-05-30.zip
+    testing: NEG_20170530.TXT         OK
+No errors detected in compressed data of 2017-05-30.zip.
+Archive:  2017-05-31.zip
+    testing: NEG_20170531.TXT         OK
+No errors detected in compressed data of 2017-05-31.zip.
+Archive:  2017-06-01.zip
+    testing: NEG_20170601.TXT         OK
+No errors detected in compressed data of 2017-06-01.zip.
+Archive:  2017-06-02.zip
+    testing: NEG_20170602.TXT         OK
+No errors detected in compressed data of 2017-06-02.zip.
+Archive:  2017-06-05.zip
+    testing: NEG_20170605.TXT         OK
+No errors detected in compressed data of 2017-06-05.zip.
+Archive:  2017-06-06.zip
+    testing: NEG_20170606.TXT         OK
+No errors detected in compressed data of 2017-06-06.zip.
+Archive:  2017-06-07.zip
+    testing: NEG_20170607.TXT         OK
+No errors detected in compressed data of 2017-06-07.zip.
+Archive:  2017-06-08.zip
+    testing: NEG_20170608.TXT         OK
+No errors detected in compressed data of 2017-06-08.zip.
+Archive:  2017-06-09.zip
+    testing: NEG_20170609.TXT         OK
+No errors detected in compressed data of 2017-06-09.zip.
+Archive:  2017-06-12.zip
+    testing: NEG_20170612.TXT         OK
+No errors detected in compressed data of 2017-06-12.zip.
+Archive:  2017-06-13.zip
+    testing: NEG_20170613.TXT         OK
+No errors detected in compressed data of 2017-06-13.zip.
+Archive:  2017-06-14.zip
+    testing: NEG_20170614.TXT         OK
+No errors detected in compressed data of 2017-06-14.zip.
+Archive:  2017-06-16.zip
+    testing: NEG_20170616.TXT         OK
+No errors detected in compressed data of 2017-06-16.zip.
+Archive:  2017-06-19.zip
+    testing: NEG_20170619.TXT         OK
+No errors detected in compressed data of 2017-06-19.zip.
+Archive:  2017-06-20.zip
+    testing: NEG_20170620.TXT         OK
+No errors detected in compressed data of 2017-06-20.zip.
+Archive:  2017-06-21.zip
+    testing: NEG_20170621.TXT         OK
+No errors detected in compressed data of 2017-06-21.zip.
+Archive:  2017-06-22.zip
+    testing: NEG_20170622.TXT         OK
+No errors detected in compressed data of 2017-06-22.zip.
+Archive:  2017-06-23.zip
+    testing: NEG_20170623.TXT         OK
+No errors detected in compressed data of 2017-06-23.zip.
+Archive:  2017-06-26.zip
+    testing: NEG_20170626.TXT         OK
+No errors detected in compressed data of 2017-06-26.zip.
+Archive:  2017-06-27.zip
+    testing: NEG_20170627.TXT         OK
+No errors detected in compressed data of 2017-06-27.zip.
+Archive:  2017-06-28.zip
+    testing: NEG_20170628.TXT         OK
+No errors detected in compressed data of 2017-06-28.zip.
+Archive:  2017-06-29.zip
+    testing: NEG_20170629.TXT         OK
+No errors detected in compressed data of 2017-06-29.zip.
+Archive:  2017-06-30.zip
+    testing: NEG_20170630.TXT         OK
+No errors detected in compressed data of 2017-06-30.zip.
+Archive:  2017-07-03.zip
+    testing: NEG_20170703.TXT         OK
+No errors detected in compressed data of 2017-07-03.zip.
+Archive:  2017-07-04.zip
+    testing: NEG_20170704.TXT         OK
+No errors detected in compressed data of 2017-07-04.zip.
+Archive:  2017-07-05.zip
+    testing: NEG_20170705.TXT         OK
+No errors detected in compressed data of 2017-07-05.zip.
+Archive:  2017-07-06.zip
+    testing: NEG_20170706.TXT         OK
+No errors detected in compressed data of 2017-07-06.zip.
+Archive:  2017-07-07.zip
+    testing: NEG_20170707.TXT         OK
+No errors detected in compressed data of 2017-07-07.zip.
+Archive:  2017-07-10.zip
+    testing: NEG_20170710.TXT         OK
+No errors detected in compressed data of 2017-07-10.zip.
+Archive:  2017-07-11.zip
+    testing: NEG_20170711.TXT         OK
+No errors detected in compressed data of 2017-07-11.zip.
+Archive:  2017-07-12.zip
+    testing: NEG_20170712.TXT         OK
+No errors detected in compressed data of 2017-07-12.zip.
+Archive:  2017-07-13.zip
+    testing: NEG_20170713.TXT         OK
+No errors detected in compressed data of 2017-07-13.zip.
+Archive:  2017-07-14.zip
+    testing: NEG_20170714.TXT         OK
+No errors detected in compressed data of 2017-07-14.zip.
+Archive:  2017-07-17.zip
+    testing: NEG_20170717.TXT         OK
+No errors detected in compressed data of 2017-07-17.zip.
+Archive:  2017-07-18.zip
+    testing: NEG_20170718.TXT         OK
+No errors detected in compressed data of 2017-07-18.zip.
+Archive:  2017-07-19.zip
+    testing: NEG_20170719.TXT         OK
+No errors detected in compressed data of 2017-07-19.zip.
+Archive:  2017-07-20.zip
+    testing: NEG_20170720.TXT         OK
+No errors detected in compressed data of 2017-07-20.zip.
+Archive:  2017-07-21.zip
+    testing: NEG_20170721.TXT         OK
+No errors detected in compressed data of 2017-07-21.zip.
+Archive:  2017-07-24.zip
+    testing: NEG_20170724.TXT         OK
+No errors detected in compressed data of 2017-07-24.zip.
+Archive:  2017-07-25.zip
+    testing: NEG_20170725.TXT         OK
+No errors detected in compressed data of 2017-07-25.zip.
+Archive:  2017-07-26.zip
+    testing: NEG_20170726.TXT         OK
+No errors detected in compressed data of 2017-07-26.zip.
+Archive:  2017-07-27.zip
+    testing: NEG_20170727.TXT         OK
+No errors detected in compressed data of 2017-07-27.zip.
+Archive:  2017-07-28.zip
+    testing: NEG_20170728.TXT         OK
+No errors detected in compressed data of 2017-07-28.zip.
+Archive:  2017-07-31.zip
+    testing: NEG_20170731.TXT         OK
+No errors detected in compressed data of 2017-07-31.zip.
+Archive:  2017-08-01.zip
+    testing: NEG_20170801.TXT         OK
+No errors detected in compressed data of 2017-08-01.zip.
+Archive:  2017-08-02.zip
+    testing: NEG_20170802.TXT         OK
+No errors detected in compressed data of 2017-08-02.zip.
+Archive:  2017-08-03.zip
+    testing: NEG_20170803.TXT         OK
+No errors detected in compressed data of 2017-08-03.zip.
+Archive:  2017-08-04.zip
+    testing: NEG_20170804.TXT         OK
+No errors detected in compressed data of 2017-08-04.zip.
+Archive:  2017-08-07.zip
+    testing: NEG_20170807.TXT         OK
+No errors detected in compressed data of 2017-08-07.zip.
+Archive:  2017-08-08.zip
+    testing: NEG_20170808.TXT         OK
+No errors detected in compressed data of 2017-08-08.zip.
+Archive:  2017-08-09.zip
+    testing: NEG_20170809.TXT         OK
+No errors detected in compressed data of 2017-08-09.zip.
+Archive:  2017-08-10.zip
+    testing: NEG_20170810.TXT         OK
+No errors detected in compressed data of 2017-08-10.zip.
+Archive:  2017-08-11.zip
+    testing: NEG_20170811.TXT         OK
+No errors detected in compressed data of 2017-08-11.zip.
+Archive:  2017-08-14.zip
+    testing: NEG_20170814.TXT         OK
+No errors detected in compressed data of 2017-08-14.zip.
+Archive:  2017-08-15.zip
+    testing: NEG_20170815.TXT         OK
+No errors detected in compressed data of 2017-08-15.zip.
+Archive:  2017-08-16.zip
+    testing: NEG_20170816.TXT         OK
+No errors detected in compressed data of 2017-08-16.zip.
+Archive:  2017-08-17.zip
+    testing: NEG_20170817.TXT         OK
+No errors detected in compressed data of 2017-08-17.zip.
+Archive:  2017-08-18.zip
+    testing: NEG_20170818.TXT         OK
+No errors detected in compressed data of 2017-08-18.zip.
+Archive:  2017-08-21.zip
+    testing: NEG_20170821.TXT         OK
+No errors detected in compressed data of 2017-08-21.zip.
+Archive:  2017-08-22.zip
+    testing: NEG_20170822.TXT         OK
+No errors detected in compressed data of 2017-08-22.zip.
+Archive:  2017-08-23.zip
+    testing: NEG_20170823.TXT         OK
+No errors detected in compressed data of 2017-08-23.zip.
+Archive:  2017-08-24.zip
+    testing: NEG_20170824.TXT         OK
+No errors detected in compressed data of 2017-08-24.zip.
+Archive:  2017-08-25.zip
+    testing: NEG_20170825.TXT         OK
+No errors detected in compressed data of 2017-08-25.zip.
+Archive:  2017-08-28.zip
+    testing: NEG_20170828.TXT         OK
+No errors detected in compressed data of 2017-08-28.zip.
+Archive:  2017-08-29.zip
+    testing: NEG_20170829.TXT         OK
+No errors detected in compressed data of 2017-08-29.zip.
+Archive:  2017-08-30.zip
+    testing: NEG_20170830.TXT         OK
+No errors detected in compressed data of 2017-08-30.zip.
+Archive:  2017-08-31.zip
+    testing: NEG_20170831.TXT         OK
+No errors detected in compressed data of 2017-08-31.zip.
+Archive:  2017-09-01.zip
+    testing: NEG_20170901.TXT         OK
+No errors detected in compressed data of 2017-09-01.zip.
+Archive:  2017-09-04.zip
+    testing: NEG_20170904.TXT         OK
+No errors detected in compressed data of 2017-09-04.zip.
+Archive:  2017-09-05.zip
+    testing: NEG_20170905.TXT         OK
+No errors detected in compressed data of 2017-09-05.zip.
+Archive:  2017-09-06.zip
+    testing: NEG_20170906.TXT         OK
+No errors detected in compressed data of 2017-09-06.zip.
+Archive:  2017-09-08.zip
+    testing: NEG_20170908.TXT         OK
+No errors detected in compressed data of 2017-09-08.zip.
+Archive:  2017-09-11.zip
+    testing: NEG_20170911.TXT         OK
+No errors detected in compressed data of 2017-09-11.zip.
+Archive:  2017-09-12.zip
+    testing: NEG_20170912.TXT         OK
+No errors detected in compressed data of 2017-09-12.zip.
+Archive:  2017-09-13.zip
+    testing: NEG_20170913.TXT         OK
+No errors detected in compressed data of 2017-09-13.zip.
+Archive:  2017-09-14.zip
+    testing: NEG_20170914.TXT         OK
+No errors detected in compressed data of 2017-09-14.zip.
+Archive:  2017-09-15.zip
+    testing: NEG_20170915.TXT         OK
+No errors detected in compressed data of 2017-09-15.zip.
+Archive:  2017-09-18.zip
+    testing: NEG_20170918.TXT         OK
+No errors detected in compressed data of 2017-09-18.zip.
+Archive:  2017-09-19.zip
+    testing: NEG_20170919.TXT         OK
+No errors detected in compressed data of 2017-09-19.zip.
+Archive:  2017-09-20.zip
+    testing: NEG_20170920.TXT         OK
+No errors detected in compressed data of 2017-09-20.zip.
+Archive:  2017-09-21.zip
+    testing: NEG_20170921.TXT         OK
+No errors detected in compressed data of 2017-09-21.zip.
+Archive:  2017-09-22.zip
+    testing: NEG_20170922.TXT         OK
+No errors detected in compressed data of 2017-09-22.zip.
+Archive:  2017-09-25.zip
+    testing: NEG_20170925.TXT         OK
+No errors detected in compressed data of 2017-09-25.zip.
+Archive:  2017-09-26.zip
+    testing: NEG_20170926.TXT         OK
+No errors detected in compressed data of 2017-09-26.zip.
+Archive:  2017-09-27.zip
+    testing: NEG_20170927.TXT         OK
+No errors detected in compressed data of 2017-09-27.zip.
+Archive:  2017-09-28.zip
+    testing: NEG_20170928.TXT         OK
+No errors detected in compressed data of 2017-09-28.zip.
+Archive:  2017-09-29.zip
+    testing: NEG_20170929.TXT         OK
+No errors detected in compressed data of 2017-09-29.zip.
+Archive:  2017-10-02.zip
+    testing: NEG_20171002.TXT         OK
+No errors detected in compressed data of 2017-10-02.zip.
+Archive:  2017-10-03.zip
+    testing: NEG_20171003.TXT         OK
+No errors detected in compressed data of 2017-10-03.zip.
+Archive:  2017-10-04.zip
+    testing: NEG_20171004.TXT         OK
+No errors detected in compressed data of 2017-10-04.zip.
+Archive:  2017-10-05.zip
+    testing: NEG_20171005.TXT         OK
+No errors detected in compressed data of 2017-10-05.zip.
+Archive:  2017-10-06.zip
+    testing: NEG_20171006.TXT         OK
+No errors detected in compressed data of 2017-10-06.zip.
+Archive:  2017-10-09.zip
+    testing: NEG_20171009.TXT         OK
+No errors detected in compressed data of 2017-10-09.zip.
+Archive:  2017-10-10.zip
+    testing: NEG_20171010.TXT         OK
+No errors detected in compressed data of 2017-10-10.zip.
+Archive:  2017-10-11.zip
+    testing: NEG_20171011.TXT         OK
+No errors detected in compressed data of 2017-10-11.zip.
+Archive:  2017-10-13.zip
+    testing: NEG_20171013.TXT         OK
+No errors detected in compressed data of 2017-10-13.zip.
+Archive:  2017-10-16.zip
+    testing: NEG_20171016.TXT         OK
+No errors detected in compressed data of 2017-10-16.zip.
+Archive:  2017-10-17.zip
+    testing: NEG_20171017.TXT         OK
+No errors detected in compressed data of 2017-10-17.zip.
+Archive:  2017-10-18.zip
+    testing: NEG_20171018.TXT         OK
+No errors detected in compressed data of 2017-10-18.zip.
+Archive:  2017-10-19.zip
+    testing: NEG_20171019.TXT         OK
+No errors detected in compressed data of 2017-10-19.zip.
+Archive:  2017-10-20.zip
+    testing: NEG_20171020.TXT         OK
+No errors detected in compressed data of 2017-10-20.zip.
+Archive:  2017-10-23.zip
+    testing: NEG_20171023.TXT         OK
+No errors detected in compressed data of 2017-10-23.zip.
+Archive:  2017-10-24.zip
+    testing: NEG_20171024.TXT         OK
+No errors detected in compressed data of 2017-10-24.zip.
+Archive:  2017-10-25.zip
+    testing: NEG_20171025.TXT         OK
+No errors detected in compressed data of 2017-10-25.zip.
+Archive:  2017-10-26.zip
+    testing: NEG_20171026.TXT         OK
+No errors detected in compressed data of 2017-10-26.zip.
+Archive:  2017-10-27.zip
+    testing: NEG_20171027.TXT         OK
+No errors detected in compressed data of 2017-10-27.zip.
+Archive:  2017-10-30.zip
+    testing: NEG_20171030.TXT         OK
+No errors detected in compressed data of 2017-10-30.zip.
+Archive:  2017-10-31.zip
+    testing: NEG_20171031.TXT         OK
+No errors detected in compressed data of 2017-10-31.zip.
+Archive:  2017-11-01.zip
+    testing: NEG_20171101.TXT         OK
+No errors detected in compressed data of 2017-11-01.zip.
+Archive:  2017-11-03.zip
+    testing: NEG_20171103.TXT         OK
+No errors detected in compressed data of 2017-11-03.zip.
+Archive:  2017-11-06.zip
+    testing: NEG_20171106.TXT         OK
+No errors detected in compressed data of 2017-11-06.zip.
+Archive:  2017-11-07.zip
+    testing: NEG_20171107.TXT         OK
+No errors detected in compressed data of 2017-11-07.zip.
+Archive:  2017-11-08.zip
+    testing: NEG_20171108.TXT         OK
+No errors detected in compressed data of 2017-11-08.zip.
+Archive:  2017-11-09.zip
+    testing: NEG_20171109.TXT         OK
+No errors detected in compressed data of 2017-11-09.zip.
+Archive:  2017-11-10.zip
+    testing: NEG_20171110.TXT         OK
+No errors detected in compressed data of 2017-11-10.zip.
+Archive:  2017-11-13.zip
+    testing: NEG_20171113.TXT         OK
+No errors detected in compressed data of 2017-11-13.zip.
+Archive:  2017-11-14.zip
+    testing: NEG_20171114.TXT         OK
+No errors detected in compressed data of 2017-11-14.zip.
+Archive:  2017-11-16.zip
+    testing: NEG_20171116.TXT         OK
+No errors detected in compressed data of 2017-11-16.zip.
+Archive:  2017-11-17.zip
+    testing: NEG_20171117.TXT         OK
+No errors detected in compressed data of 2017-11-17.zip.
+Archive:  2017-11-21.zip
+    testing: NEG_20171121.TXT         OK
+No errors detected in compressed data of 2017-11-21.zip.
+Archive:  2017-11-22.zip
+    testing: NEG_20171122.TXT         OK
+No errors detected in compressed data of 2017-11-22.zip.
+Archive:  2017-11-23.zip
+    testing: NEG_20171123.TXT         OK
+No errors detected in compressed data of 2017-11-23.zip.
+Archive:  2017-11-24.zip
+    testing: NEG_20171124.TXT         OK
+No errors detected in compressed data of 2017-11-24.zip.
+Archive:  2017-11-27.zip
+    testing: NEG_20171127.TXT         OK
+No errors detected in compressed data of 2017-11-27.zip.
+Archive:  2017-11-28.zip
+    testing: NEG_20171128.TXT         OK
+No errors detected in compressed data of 2017-11-28.zip.
+Archive:  2017-11-29.zip
+    testing: NEG_20171129.TXT         OK
+No errors detected in compressed data of 2017-11-29.zip.
+Archive:  2017-11-30.zip
+    testing: NEG_20171130.TXT         OK
+No errors detected in compressed data of 2017-11-30.zip.
+Archive:  2017-12-01.zip
+    testing: NEG_20171201.TXT         OK
+No errors detected in compressed data of 2017-12-01.zip.
+Archive:  2017-12-04.zip
+    testing: NEG_20171204.TXT         OK
+No errors detected in compressed data of 2017-12-04.zip.
+Archive:  2017-12-05.zip
+    testing: NEG_20171205.TXT         OK
+No errors detected in compressed data of 2017-12-05.zip.
+Archive:  2017-12-06.zip
+    testing: NEG_20171206.TXT         OK
+No errors detected in compressed data of 2017-12-06.zip.
+Archive:  2017-12-07.zip
+    testing: NEG_20171207.TXT         OK
+No errors detected in compressed data of 2017-12-07.zip.
+Archive:  2017-12-08.zip
+    testing: NEG_20171208.TXT         OK
+No errors detected in compressed data of 2017-12-08.zip.
+Archive:  2017-12-11.zip
+    testing: NEG_20171211.TXT         OK
+No errors detected in compressed data of 2017-12-11.zip.
+Archive:  2017-12-12.zip
+    testing: NEG_20171212.TXT         OK
+No errors detected in compressed data of 2017-12-12.zip.
+Archive:  2017-12-13.zip
+    testing: NEG_20171213.TXT         OK
+No errors detected in compressed data of 2017-12-13.zip.
+Archive:  2017-12-14.zip
+    testing: NEG_20171214.TXT         OK
+No errors detected in compressed data of 2017-12-14.zip.
+Archive:  2017-12-15.zip
+    testing: NEG_20171215.TXT         OK
+No errors detected in compressed data of 2017-12-15.zip.
+Archive:  2017-12-18.zip
+    testing: NEG_20171218.TXT         OK
+No errors detected in compressed data of 2017-12-18.zip.
+Archive:  2017-12-19.zip
+    testing: NEG_20171219.TXT         OK
+No errors detected in compressed data of 2017-12-19.zip.
+Archive:  2017-12-20.zip
+    testing: NEG_20171220.TXT         OK
+No errors detected in compressed data of 2017-12-20.zip.
+Archive:  2017-12-21.zip
+    testing: NEG_20171221.TXT         OK
+No errors detected in compressed data of 2017-12-21.zip.
+Archive:  2017-12-22.zip
+    testing: NEG_20171222.TXT         OK
+No errors detected in compressed data of 2017-12-22.zip.
+Archive:  2017-12-26.zip
+    testing: NEG_20171226.TXT         OK
+No errors detected in compressed data of 2017-12-26.zip.
+Archive:  2017-12-27.zip
+    testing: NEG_20171227.TXT         OK
+No errors detected in compressed data of 2017-12-27.zip.
+Archive:  2017-12-28.zip
+    testing: NEG_20171228.TXT         OK
+No errors detected in compressed data of 2017-12-28.zip.
+Archive:  2018-01-02.zip
+    testing: NEG_20180102.TXT         OK
+No errors detected in compressed data of 2018-01-02.zip.
+Archive:  2018-01-03.zip
+    testing: NEG_20180103.TXT         OK
+No errors detected in compressed data of 2018-01-03.zip.
