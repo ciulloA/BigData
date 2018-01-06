@@ -4,6 +4,8 @@
 
 # Here we collect all the functions created for the project
 
+# ---------------------------------------------------------------------------------------------------------
+
 ticker_count <- function(filename, directory) {
   gc()
   suppressPackageStartupMessages(library("data.table"))
@@ -34,8 +36,7 @@ ticker_count <- function(filename, directory) {
   rm("Ticker")
 }
 
-
-
+# ---------------------------------------------------------------------------------------------------------
 
 clean_data <- function(filename, directory) {
   gc()
@@ -90,3 +91,24 @@ clean_data <- function(filename, directory) {
 # any resolution below the second. (eg. 10:00:00.371 and 10:00:00.580 will become both 10:00:00) 
 #  temp[, Price := mean(Price), by="Symbol,Datetime"]
 ##  for (k in unique(temp$Symbol)) set(temp, i = duplicated(temp[grep(k,temp$Symbol),], by = "Datetime"), j = "Price", value = mean("Price"))
+
+# ---------------------------------------------------------------------------------------------------------
+
+
+aggregate_data <- function(filename) {
+  suppressPackageStartupMessages(library("data.table"))
+  suppressPackageStartupMessages(library("plyr"))
+  
+  file <- fread(filename)
+  
+  a_ply(.data = unique(file$Symbol),
+        .fun = function(symbol, file) {
+          suppressPackageStartupMessages(library("data.table"))
+          fwrite(file[grep(symbol, file$Symbol), c(1,3)], paste0(symbol, ".txt"), append = TRUE)
+        }, file,
+        .parallel = F,
+        .margins = 1)
+}
+
+# ---------------------------------------------------------------------------------------------------------
+
