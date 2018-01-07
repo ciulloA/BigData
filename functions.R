@@ -28,7 +28,7 @@ ticker_count <- function(filename, directory) {
   rm(list = c("separator", "last", "sample"))
   gc()
   
-  # Create file with noumber of observation for each ticker and for each day
+  # Create file with number of observation for each ticker and for each day
   output <- cbind(date, unique(ticker), count)
   colnames(output) <- c("Date","Ticker","Counter")
   setwd(paste0(directory,"/Clean"))
@@ -112,3 +112,25 @@ aggregate_data <- function(filename) {
 
 # ---------------------------------------------------------------------------------------------------------
 
+vol_price <- function(x) {
+  suppressPackageStartupMessages(library("data.table"))
+  suppressPackageStartupMessages(library("highfrequency"))
+  
+  temp <- fread(x)
+  temp$Datetime <- as.POSIXct(temp$Datetime, tz = "UTC")
+  n = length(unique(temp$Symbol))
+    
+  output = data.table("Price.Close"=rep(0,n), "RV"=rep(0,n), "Symbol" =rep(0,n))
+  for (i in 1:n) {
+    selection <-temp[temp$Symbol==unique(temp$Symbol)[i], c("Datetime","Price")]
+    output$RV[i] <- medRV(as.xts.data.table(selection), align.by = "minutes", align.period = TRUE, makeReturns = TRUE)
+    output$Price.Close[i] <- last(selection$Price)
+    output$Symbol[i] <- unique(temp$Symbol)[i]
+  }
+  fwrite(output,paste0(substr(x,1,10),"_vol.txt"))
+
+  rm("temp","selection")
+  gc()
+}
+
+# ---------------------------------------------------------------------------------------------------------

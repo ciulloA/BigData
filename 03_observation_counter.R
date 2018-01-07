@@ -13,8 +13,8 @@ source("/home/antonio/Desktop/BigData/codes/functions.R") # load the functions
 directory = "/home/antonio/Desktop/BigData/data"
 setwd(paste0(directory,"/Download"))
 # Getting filenames
-filename <- system("ls", intern = TRUE)
-# filename <- filename[1:10] # (only for tests! to be removed)
+filename <- list.files(getwd(), pattern = ".*zip$")
+#filename <- system("ls", intern = TRUE) #(using ubuntu terminal)
 
 # Inspect files size
 system("ls -sh > temp")

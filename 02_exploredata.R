@@ -1,6 +1,5 @@
 rm (list = ls())
 directory = "/home/antonio/Desktop/BigData/data"
-linux_dir = "cd ~/Desktop/BigData/data/Download"
 
 # EXPLORING THE DATA
 if (!require(data.table)) install.packages("data.table")
@@ -8,16 +7,15 @@ suppressPackageStartupMessages(library("data.table"))
 setwd(paste0(directory,"/Download"))
 
 # getting filenames
-system(linux_dir)
-filename <- system("ls", intern = TRUE)
+filename <- list.files(pattern = ".*zip$")
 
-# Reading file    2015-11-03.zip 2017-03-29.zip
-sample <- fread(paste0("unzip -p ",filename[1]), skip = 1, sep = ";", fill = TRUE)
+# Reading a random sample file: 2017-03-29.zip
+sample <- fread(paste0("unzip -p ", "2017-03-29.zip"), skip = 1, sep = ";", fill = TRUE)
 sample <- sample[-dim(sample)[1],]
 colnames(sample) <- c("Date", "Symbol", "Trade Number", "Price", "Quantity", "Time", "Trade Indicator", "Buy Order Date", "Sequential Buy Order Number", "Secondary Order ID - Buy Order",	"Aggressor Buy Order Indicator", "Sell Order Date", "Sequential Sell Order Number", "Secondary Order ID - Sell Order", "Aggressor Sell Order Indicator", "Cross Trade Indicator", "Buy Member", "Sell Member")
 
 # Cutting useless columns
-sample <- sample[, c("Date", "Symbol", "Price", "Quantity", "Time", "Trade Indicator")]
+sample <- sample[, c("Date", "Symbol", "Price", "Time")]
 date <- sample$Date[1]
 # Tickers <- as.matrix(unique(sample[,"Symbol"])) # All tickers available
 
@@ -47,12 +45,12 @@ ggplot(data = sample) + geom_bar(aes(x = Symbol, colour = factor(Symbol))) + the
 
 
 
-a <- sample[Symbol == Tickers[4] | Symbol == Tickers[1] | Symbol == Tickers[147],]
-sample[, Price:=Price/Price[1], by="Symbol"]
-
-library(ggplot2)
-# p <- ggplot(data = sample) + geom_step(aes(x = Datetime, y = Price, colour = factor(Symbol)))
-
-q <- ggplot(data = sample) + geom_bar(aes(x = Symbol, colour = factor(Symbol))) + theme(legend.position="none")
-
+# a <- sample[Symbol == Tickers[4] | Symbol == Tickers[1] | Symbol == Tickers[147],]
+# sample[, Price:=Price/Price[1], by="Symbol"]
+# 
+# library(ggplot2)
+# # p <- ggplot(data = sample) + geom_step(aes(x = Datetime, y = Price, colour = factor(Symbol)))
+# 
+# q <- ggplot(data = sample) + geom_bar(aes(x = Symbol, colour = factor(Symbol))) + theme(legend.position="none")
+# 
 
